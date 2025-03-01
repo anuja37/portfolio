@@ -8,7 +8,7 @@ body {
     padding: 0;
 }
 .hero h4{
-    font-size: 20px;
+    font-size: 23px;
 }
 
 .hero{
@@ -111,7 +111,7 @@ body {
 
 .btn-primary, .btn-secondary,.btn-tri, .btn-forth, .btn-fifth {
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 10px 25px;
     border-radius: 5px;
     cursor: pointer;
     margin: 5px;
@@ -565,7 +565,7 @@ body {
 }
 
 
-/* Featured Skills Section */
+/* Featured  s Section */
 .featured-skills {
     background-image: url(hey_invert.jpg);
     padding: 50px 128px;
@@ -600,7 +600,7 @@ body {
 
 .skill-card h2 {
     margin-bottom: 10px;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
 }
 
 .skill-card p {
